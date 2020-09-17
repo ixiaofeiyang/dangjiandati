@@ -1,0 +1,29 @@
+<view class="page" style="width:{{windowWidth}}px;height:{{windowHeight}}px">
+
+    <view class="body">
+        <!-- <image class="img1" src="/images/img202006212140.png" /> -->
+        <image class="img2" src="/images/img2020091201.png" /> 
+        <image class="img3" src="/images/img202006211400.png" />
+        
+        <view class="p2">
+        "坚持政治建警 全面从严治警"
+        </view>
+        <view class="p3">
+        测试题
+        </view>
+        <view class="p4">
+        巴彦淖尔市公安局交管支队
+        </view>
+        <view class="button">
+            <view class="btn1" bindtap="helpGo">活动说明</view>
+            <view class="btn2" bindtap="examGo">参与答题</view>
+            <view class="btn3" bindtap="rankGo">查看排名</view>
+        </view>
+    </view>
+    <!-- <view class="footer">
+        <image src="http://file.xiaomutong.com.cn/img2020090901.jpeg" style="width:{{windowWidth}}px;"/>
+    </view> -->
+    <!-- <view class="about">
+        <view class="button" bindtap="aboutGo">联系</view>
+    </view> -->
+</view>

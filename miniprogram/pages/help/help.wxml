@@ -1,0 +1,37 @@
+<view class="page" style="width:{{windowWidth}}px;height:{{windowHeight}}px">
+    <view class="wrapper">
+
+
+        <view class="r1">
+            <view class="title">活动时间</view>
+            <view class="content">
+            从即日起至“坚持政治建警  全面从严治警”专项活动结束。
+            </view>
+        </view>
+
+        <view class="r1">
+            <view class="title">参与对象</view>
+            <view class="content">
+            全体民警、辅警
+            </view>
+        </view>
+
+        <view class="r2">
+            <view class="title">竞答内容</view>
+            <view class="content">
+            学习习近平新时代中国特色社会主义思想、以及习近平总书记重要讲话精神、党章党纪党规、新时代党的建设总要求、政治建警全面从严治警应知应会知识等。
+            </view>
+        </view>
+
+        <view class="r3">
+            <view class="title">竞答规则</view>
+            <view class="content">
+            <view>每周竞赛试题共5道题（20分/道），满分100分，答题时间30分钟。竞赛试题从题库中随机抽取，参加答题人员必须按照答题流程进行答题,否则答题成绩无效。每周一组，每人每天限三次答题机会。</view>
+           
+            </view>
+        </view>
+
+ 
+    </view>
+  
+</view>
